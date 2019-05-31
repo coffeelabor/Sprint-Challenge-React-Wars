@@ -1,0 +1,28 @@
+.char-list {
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.Char-Card {
+  max-height: 300px;
+  height: 300px;
+  max-width: 300px;
+  width: 300px;
+  border: 1px solid black;
+  margin: 10px;
+  border-radius: 30px;
+  background-color: skyblue;
+}
+
+.Char-Name {
+  font-size: 1.6em;
+  font-style: italic;
+  color: gold;
+}
+
+.Char-Born {
+  font-size: 1.2em;
+  color: navy;
+}

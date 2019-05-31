@@ -1,5 +1,6 @@
 import React from "react";
 import CharName from "./CharName";
+import "./StarWars.css";
 
 const CharacterList = props => {
   console.log(props.starwarsChars);
