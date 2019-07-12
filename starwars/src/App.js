@@ -25,7 +25,7 @@ const App = () => {
 
   return (
     <div className="App">
-      <h1 className="Header">React Wars Test Test</h1>
+      <h1 className="Header">React Wars Test </h1>
       <CharList char={char} />
     </div>
   );

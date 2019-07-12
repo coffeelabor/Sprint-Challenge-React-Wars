@@ -7,7 +7,7 @@ exports[`<App /> should match snapshot 1`] = `
   <h1
     className="Header"
   >
-    React Wars Test Test
+    React Wars Test 
   </h1>
   <div />
 </div>
